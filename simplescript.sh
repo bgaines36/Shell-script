@@ -8,4 +8,4 @@ echo "========================================="
 cat Sales_team.txt
 
 echo "========================================="
-echo "Goodbye $name, Happy Hunting!"
+echo "Goodbye $name, and Happy Hunting!"
